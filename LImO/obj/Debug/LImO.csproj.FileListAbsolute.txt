@@ -1,0 +1,72 @@
+c:\users\usersfiles\documents\visual studio 2013\Projects\LImO\LImO\bin\Debug\LImO.exe.config
+c:\users\usersfiles\documents\visual studio 2013\Projects\LImO\LImO\bin\Debug\LImO.exe
+c:\users\usersfiles\documents\visual studio 2013\Projects\LImO\LImO\bin\Debug\LImO.pdb
+c:\users\usersfiles\documents\visual studio 2013\Projects\LImO\LImO\obj\Debug\LImO.csprojResolveAssemblyReference.cache
+c:\users\usersfiles\documents\visual studio 2013\Projects\LImO\LImO\obj\Debug\LImO.Properties.Resources.resources
+c:\users\usersfiles\documents\visual studio 2013\Projects\LImO\LImO\obj\Debug\LImO.csproj.GenerateResource.Cache
+c:\users\usersfiles\documents\visual studio 2013\Projects\LImO\LImO\obj\Debug\LImO.exe
+c:\users\usersfiles\documents\visual studio 2013\Projects\LImO\LImO\obj\Debug\LImO.pdb
+c:\users\usersfiles\documents\visual studio 2013\Projects\LImO\LImO\obj\Debug\LImO.add_revenue.resources
+c:\users\usersfiles\documents\visual studio 2013\Projects\LImO\LImO\obj\Debug\LImO.Revunes.resources
+c:\users\usersfiles\documents\visual studio 2013\Projects\LImO\LImO\obj\Debug\LImO.espeness.resources
+c:\users\usersfiles\documents\visual studio 2013\Projects\LImO\LImO\obj\Debug\LImO.Mainmenu.resources
+C:\Users\UsersFiles\documents\visual studio 2013\Projects\LImO\LImO\obj\Debug\LImO.ShortComing.resources
+C:\Users\UsersFiles\documents\visual studio 2013\Projects\LImO\LImO\obj\Debug\LImO.mdionatCompanies.resources
+C:\Users\UsersFiles\documents\visual studio 2013\Projects\LImO\LImO\obj\Debug\LImO.mdtionperson.resources
+C:\Users\UsersFiles\documents\visual studio 2013\Projects\LImO\LImO\obj\Debug\LImO.login.resources
+C:\Users\UsersFiles\documents\visual studio 2013\Projects\LImO\LImO\obj\Debug\LImO.user.resources
+C:\Users\UsersFiles\documents\visual studio 2013\Projects\LImO\LImO\obj\Debug\LImO.usersettiong.resources
+C:\Users\UsersFiles\documents\visual studio 2013\Projects\LImO\LImO\obj\Debug\LImO.programar.resources
+C:\Users\UsersFiles\documents\visual studio 2013\Projects\LImO\LImO\obj\Debug\LImO.DatabaseSetting.resources
+C:\Users\UsersFiles\documents\visual studio 2013\Projects\LImO\LImO\bin\Debug\LImO.exe.manifest
+C:\Users\UsersFiles\documents\visual studio 2013\Projects\LImO\LImO\bin\Debug\LImO.application
+C:\Users\UsersFiles\documents\visual studio 2013\Projects\LImO\LImO\obj\Debug\LImO.exe.manifest
+C:\Users\UsersFiles\documents\visual studio 2013\Projects\LImO\LImO\obj\Debug\LImO.application
+G:\Visual Studio 2013\Projects\LImO\LImO\bin\Debug\LImO.exe.config
+G:\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.exe
+G:\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.pdb
+G:\Visual Studio 2013\Projects\LImO\LImO\bin\Debug\LImO.exe.manifest
+G:\Visual Studio 2013\Projects\LImO\LImO\bin\Debug\LImO.application
+G:\Visual Studio 2013\Projects\LImO\LImO\bin\Debug\LImO.exe
+G:\Visual Studio 2013\Projects\LImO\LImO\bin\Debug\LImO.pdb
+G:\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.csprojResolveAssemblyReference.cache
+G:\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.add_revenue.resources
+G:\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.DatabaseSetting.resources
+G:\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.espeness.resources
+G:\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.login.resources
+G:\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.Mainmenu.resources
+G:\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.mdionatCompanies.resources
+G:\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.mdtionperson.resources
+G:\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.programar.resources
+G:\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.Revunes.resources
+G:\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.Properties.Resources.resources
+G:\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.ShortComing.resources
+G:\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.user.resources
+G:\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.usersettiong.resources
+G:\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.csproj.GenerateResource.Cache
+G:\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.exe.manifest
+G:\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.application
+G:\my projects\Visual Studio 2013\Projects\LImO\LImO\bin\Debug\LImO.exe.config
+G:\my projects\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.exe
+G:\my projects\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.pdb
+G:\my projects\Visual Studio 2013\Projects\LImO\LImO\bin\Debug\LImO.exe.manifest
+G:\my projects\Visual Studio 2013\Projects\LImO\LImO\bin\Debug\LImO.application
+G:\my projects\Visual Studio 2013\Projects\LImO\LImO\bin\Debug\LImO.exe
+G:\my projects\Visual Studio 2013\Projects\LImO\LImO\bin\Debug\LImO.pdb
+G:\my projects\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.csprojResolveAssemblyReference.cache
+G:\my projects\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.add_revenue.resources
+G:\my projects\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.DatabaseSetting.resources
+G:\my projects\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.espeness.resources
+G:\my projects\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.login.resources
+G:\my projects\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.Mainmenu.resources
+G:\my projects\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.mdionatCompanies.resources
+G:\my projects\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.mdtionperson.resources
+G:\my projects\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.programar.resources
+G:\my projects\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.Revunes.resources
+G:\my projects\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.Properties.Resources.resources
+G:\my projects\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.ShortComing.resources
+G:\my projects\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.user.resources
+G:\my projects\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.usersettiong.resources
+G:\my projects\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.csproj.GenerateResource.Cache
+G:\my projects\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.exe.manifest
+G:\my projects\Visual Studio 2013\Projects\LImO\LImO\obj\Debug\LImO.application
